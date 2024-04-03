@@ -38,6 +38,3 @@ The dataset (`car_info.csv`) contains the following features:
 
 ## Results
 Provide insights on the performance of the trained model, such as accuracy, error metrics, and any visualizations that help in understanding the predictions.
-
-## Acknowledgements
-Mention any resources, datasets, or libraries used in the project.
