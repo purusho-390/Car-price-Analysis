@@ -19,7 +19,7 @@ The dataset (`car_info.csv`) contains the following features:
 ## Installation
 1. Clone this repository:
     ```
-    git clone https://github.com/your_username/car-price-prediction.git
+    https://github.com/purusho-390/Car-price-Analysis.git
     ```
 2. Navigate to the project directory:
     ```
